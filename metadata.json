@@ -1,0 +1,6 @@
+{
+  "name": "How Late Can You Click?",
+  "description": "A minimalist reaction time game where you must click as late as possible before the window closes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
